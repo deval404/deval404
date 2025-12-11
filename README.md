@@ -33,7 +33,7 @@ Agregá la descripción y enlaces cuando los tengas listos.
 
 | Proyecto | Descripción | Stack | Enlaces |
 |----------|-------------|--------|---------|
-| **Kioskito Espectroluna** | Simulacion de kiosko online con apartado de administracion CRUD. | Java Spring Boot · HTML · CSS · JavaScript · MySQL · Clever Cloud · Docker | [Repo](#) |
+| **Kioskito Espectroluna** | Simulacion de kiosko online con apartado de administracion CRUD. | Java Spring Boot · HTML · CSS · JavaScript · MySQL · Clever Cloud · Docker | [Repo](https://github.com/deval404/kiosko) |
 | **Negocio Dichar (Escritorio)** | CRUD con JAP/Hibernate e interfaz en Java Swing  | Java · JPA · Java Swing · MySQL | [Repo](#) |
 | **Negocio Dichar (Web)** | Catálogo + carrito + endpoints REST. | Java Spring Boot · JPA · HTML · CSS · JavaScript · MySQL · N8N | En proceso |
 
