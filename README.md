@@ -29,12 +29,14 @@ DevOps & Herramientas
 
 Agregá la descripción y enlaces cuando los tengas listos.
 
-Proyecto	Descripción	Stack	Enlace
-Proyecto 1	Descripción breve del proyecto…	Java · JavaFX · MySQL	Repo
+| Proyecto | Descripción | Stack | Enlaces |
+|----------|-------------|--------|---------|
+| **Sistema de Ventas – JavaFX** | CRUD completo con interfaz JavaFX y base de datos MySQL. | Java · JavaFX · MySQL · JPA | [Repo](#) |
+| **API de Productos – Spring Boot** | API REST con autenticación, capas limpias y Hibernate. | Spring Boot · JPA · MySQL | [Repo](#) |
+| **Gestor de Inventario** | App de escritorio con persistencia real + reportes. | Java · JPA/Hibernate · MySQL | [Repo](#) |
+| **Proyecto Dockerizado** | Servicio backend + DB MySQL en containers. | Spring Boot · Docker · MySQL | [Repo](#) |
+| **Mini E-Commerce** | Catálogo + carrito + endpoints REST. | Spring Boot · HTML · JS | [Repo](#) |
 
-Proyecto 2	Descripción breve del proyecto…	Spring Boot · JPA	Repo
-
-Proyecto 3	Descripción breve del proyecto…	Docker · API · MySQL	Repo
 ⚡ Logros rápidos
 
 Desarrollo de CRUDs completos con JavaFX y persistencia real con JPA/Hibernate.
