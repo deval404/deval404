@@ -5,6 +5,7 @@
 </p>
 
 <p align="center"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/📄%20Descargar%20CV-4CAF50?style=for-the-badge" /></a> </p>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 🚀 Sobre mí
 
 Desarrollador especializado en Java, aplicaciones de escritorio con JavaFX, APIs con Spring Boot y persistencia con JPA/Hibernate.
