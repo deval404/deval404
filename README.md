@@ -25,17 +25,18 @@ Frontend & UI
 <p> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <!-- JavaFX no tiene icono oficial; se suele usar Java --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> </p>
 DevOps & Herramientas
 <p> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </p>
+
+
 📂 Proyectos Seleccionados
 
 Agregá la descripción y enlaces cuando los tengas listos.
 
 | Proyecto | Descripción | Stack | Enlaces |
 |----------|-------------|--------|---------|
-| **Sistema de Ventas – JavaFX** | CRUD completo con interfaz JavaFX y base de datos MySQL. | Java · JavaFX · MySQL · JPA | [Repo](#) |
-| **API de Productos – Spring Boot** | API REST con autenticación, capas limpias y Hibernate. | Spring Boot · JPA · MySQL | [Repo](#) |
-| **Gestor de Inventario** | App de escritorio con persistencia real + reportes. | Java · JPA/Hibernate · MySQL | [Repo](#) |
-| **Proyecto Dockerizado** | Servicio backend + DB MySQL en containers. | Spring Boot · Docker · MySQL | [Repo](#) |
-| **Mini E-Commerce** | Catálogo + carrito + endpoints REST. | Spring Boot · HTML · JS | [Repo](#) |
+| **Kioskito Espectroluna** | Simulacion de kiosko online con apartado de administracion CRUD. | Java Spring Boot · HTML · CSS · JavaScript · MySQL · Clever Cloud · Docker | [Repo](#) |
+| **Negocio Dichar (Escritorio)** | CRUD con JAP/Hibernate e interfaz en Java Swing  | Java · JPA · Java Swing · MySQL | [Repo](#) |
+| **Negocio Dichar (Web)** | Catálogo + carrito + endpoints REST. | Java Spring Boot · JPA · HTML · CSS · JavaScript · MySQL · N8N | En proceso |
+
 
 ⚡ Logros rápidos
 
