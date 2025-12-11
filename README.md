@@ -1,11 +1,11 @@
 🎉 ¡Hola! Soy Valentín
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Valent%C3%ADn;Desarrollador+Java;JavaFX+%7C+Spring+Boot;JPA+%2F+Hibernate;MySQL+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+Java;JavaFX+%7C+Spring+Boot;JPA+%2F+Hibernate;MySQL+%7C+Docker" alt="Typing SVG" />
 </p>
 
 <p align="center"> <a href="#" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/📄%20Descargar%20CV-4CAF50?style=for-the-badge" /></a> </p>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
 🚀 Sobre mí
 
 Desarrollador especializado en Java, aplicaciones de escritorio con JavaFX, APIs con Spring Boot y persistencia con JPA/Hibernate.
